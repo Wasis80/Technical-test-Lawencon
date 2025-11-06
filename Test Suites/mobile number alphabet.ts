@@ -15,7 +15,7 @@
       <guid>4e3b9bb5-7fab-4d46-857d-b882bb5f7bde</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Mobile number alphabet</testCaseId>
+      <testCaseId>Test Cases/Fill mobile number alphabet</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
